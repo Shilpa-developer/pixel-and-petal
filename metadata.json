@@ -1,0 +1,6 @@
+{
+  "name": "Pixel & Petal — Web Design & Development",
+  "description": "Official website for Pixel & Petal, an independent web design & development brand created with love by Shilpa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
